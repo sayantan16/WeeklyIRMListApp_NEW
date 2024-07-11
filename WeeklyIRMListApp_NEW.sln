@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeeklyIRMListApp_NEW", "WeeklyIRMListApp_NEW\WeeklyIRMListApp_NEW.csproj", "{75B3D288-80FA-4463-AD8E-01799DE0D3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B3D288-80FA-4463-AD8E-01799DE0D3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B3D288-80FA-4463-AD8E-01799DE0D3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B3D288-80FA-4463-AD8E-01799DE0D3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B3D288-80FA-4463-AD8E-01799DE0D3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E5B31E-61C7-4BF6-B2D4-C1C5B3F540A6}
+	EndGlobalSection
+EndGlobal
